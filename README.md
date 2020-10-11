@@ -14,4 +14,4 @@ encoder and decoder, and that RX errors will quickly clear from the receiver.
 
 find_scramblers.c : Search for 1-tap maximal LFSRs (repeat period is 2^n-1)
 
-scramble.c : Show a scrambler in action
+scramble.c : Show a scrambler in action or can be used to gnerate test vectors
